@@ -1,4 +1,4 @@
-# AI Nights Content - Intermediate
+# [AI Nights Content - Global AI Nights Spain](https://github.com/alexandergg/GlobalAINight2019)
 # Lab 02 - Deep Learning with Pytorch and Azure
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/sethjuarez/pytorchintro)
 ## Requirements for the Lab 
